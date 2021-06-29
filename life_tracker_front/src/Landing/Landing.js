@@ -11,7 +11,7 @@ let heroImg = "https://www.menshealthatlanta.com/wp-content/uploads/2019/01/in_s
 function Landing(){
     return (
         <div className="Landing">
-            <Nav />
+            {/* <Nav /> */}
             <Hero />
             <Categories />
         </div>
