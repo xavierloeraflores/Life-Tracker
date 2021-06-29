@@ -1,0 +1,22 @@
+.Xcard *{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.Xcard .cardInfo{
+    padding: 8px;
+    background-color: aquamarine;
+    width: 350px;
+    border-radius: 10px;
+}
+.Xcard .cardInfo .cardData {
+    display: flex;
+    flex-flow:row nowrap;
+    justify-content: space-between;
+}
+.Xcard .cardInfo .cardData .dataBit{
+    display: flex;
+    flex-flow:column nowrap;
+    justify-content: space-between;
+}
