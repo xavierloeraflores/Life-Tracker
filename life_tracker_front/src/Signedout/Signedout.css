@@ -1,0 +1,19 @@
+.signedOut {
+    width: 150px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+
+.signedOut a{
+    color:white;
+    text-decoration: none;
+    background-color: #76c2af;
+    border-radius: 5px;
+    padding:  4px 8px;
+}
+
+.signedOut a:hover{
+    text-decoration: underline;
+}

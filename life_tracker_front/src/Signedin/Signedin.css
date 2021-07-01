@@ -1,0 +1,16 @@
+.signedIn {
+    width: 150px;
+}
+
+
+.signedIn a{
+    color:white;
+    text-decoration: none;
+    background-color: #76c2af;
+    border-radius: 5px;
+    padding:  4px 8px;
+}
+
+.signedIn a:hover{
+    text-decoration: underline;
+}
