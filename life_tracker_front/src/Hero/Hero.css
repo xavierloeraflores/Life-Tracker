@@ -1,0 +1,25 @@
+.Hero  * {
+    padding:0px;
+    margin:0px;
+    border:0px;
+}
+.Hero {
+    border-bottom: 1px rgba(0, 0, 0, 0.172) solid;
+}
+.Hero {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 16px 0px ;
+}
+
+.Hero #info {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Hero #heroDiv img{
+    width: 400px;
+    border-radius: 10px;
+}

@@ -1,0 +1,25 @@
+.Categories  * {
+    padding:0px;
+    margin:0px;
+    border:0px;
+}
+.Categories {
+    border-bottom: 1px rgba(0, 0, 0, 0.172) solid;
+}
+.Categories {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 16px 0px ;
+}
+.Categories .cat{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    padding: 16px 16px ;
+}
+
+
+.Categories .cat img{
+    width: 200px;
+    border-radius: 10px;
+}

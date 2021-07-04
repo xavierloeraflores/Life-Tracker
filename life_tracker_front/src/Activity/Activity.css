@@ -1,0 +1,15 @@
+.Activity {
+    padding: 0;
+    margin: 0px;
+    border: 0px;
+}
+.Activity #Activities{
+    padding: 0;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content:space-between;
+    align-content: space-between;
+}
+.Activity #Activities .card{
+    margin: 16px;
+}
