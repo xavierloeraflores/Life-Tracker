@@ -1,5 +1,5 @@
 import React from 'react';
-import  {useState, useEffect}  from 'react-dom';
+import  {useState, useEffect}  from 'react';
 import  {Routes, Route} from 'react-router-dom';
 import Landing from './Landing/Landing'
 import Signin from './Signin/Signin';
@@ -12,23 +12,23 @@ import apiclient from "./apiclient";
 import './App.css';
 
 function App() {
-  const user=1;
-  const setUser=1;
-  // const [user, setUser] = useState({});
-  // const [error, setError] = useState(null);
+  // const user=1;
+  // const setUser=1;
+  const [user, setUser] = useState({});
+  const [error, setError] = useState(null);
 
-  // useEffect(() => {
-  //   const fetchUser = async () => {
-  //     const { data, error } = await apiclient.fetchUserFromToken();
-  //     if (data) setUser(data.user);
-  //     if (error) setError(error);
-  //   };
-  //   const token = localStorage.getItem("token");
-  //   if (token) {
-  //     apiclient.setToken(token);
-  //     fetchUser();
-  //   }
-  // }, []);
+  useEffect(() => {
+    const fetchUser = async () => {
+      const { data, error } = await apiclient.fetchUserFromToken();
+      if (data) setUser(data.user);
+      if (error) setError(error);
+    };
+    const token = localStorage.getItem("token");
+    if (token) {
+      apiclient.setToken(token);
+      fetchUser();
+    }
+  }, []);
   return (
     <div className="App">
       <Nav />

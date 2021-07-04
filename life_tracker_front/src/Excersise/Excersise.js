@@ -3,28 +3,28 @@ import "./Excersise.css"
 import Xcard from '../Xcard/Xcard'
 const exercises = [
     {
-        name: "Dank",
+        name: "Running",
         duration:"30",
-        intensity:"10",
-        time:"30"
+        intensity:"7",
+        time:"Today @16:30"
     },
     {
-        name: "Dank",
-        duration:"30",
-        intensity:"10",
-        time:"30"
+        name: "Jogging",
+        duration:"45",
+        intensity:"4",
+        time:"Yesterday @ 11:30"
     },
     {
-        name: "Dank",
-        duration:"30",
-        intensity:"10",
-        time:"30"
+        name: "Weightlifting",
+        duration:"20",
+        intensity:"8",
+        time:"Yesterday @11:00"
     },
     {
-        name: "Dank",
+        name: "Running",
         duration:"30",
-        intensity:"10",
-        time:"30"
+        intensity:"7",
+        time:"July 1 @16:30"
     }
 ]
 function Excersise() {
@@ -37,9 +37,9 @@ function Excersise() {
                     {exercises.map((exercise)=> (
                         <Xcard name={exercise.name} duration={exercise.duration} intensity={exercise.intensity} time={exercise.time}/>
                     ))}
-                    {exercises.map((exercise)=> (
+                    {/* {exercises.map((exercise)=> (
                         console.log(exercise.name)
-                    ))}
+                    ))} */}
                 </div>
 
             </div>

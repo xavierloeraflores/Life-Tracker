@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 import SignedIn from '../Signedin/Signedin'
 import SignedOut from '../Signedout/Signedout'
 
-let logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/1024px-WPVG_icon_2016.svg.png"
+let logo="https://svgsilh.com/svg/3199472.svg"
 
 
 function Nav(){
@@ -17,8 +17,8 @@ function Nav(){
             <div id='links'>
                 <Link to='activity'><span>Activity</span></Link>
                 <Link to='nutrition'><span>Nutrition</span></Link>
-                <Link to='Exercise'><span>Exercise</span></Link>
-                <Link to='Sleep'><span>Sleep</span></Link>
+                <Link to='exercise'><span>Exercise</span></Link>
+                <Link to='sleep'><span>Sleep</span></Link>
             </div>
 
             <SignedOut />

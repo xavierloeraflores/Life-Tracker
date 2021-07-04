@@ -14,7 +14,10 @@
     justify-content: space-around;
     align-items: center;
 }
-
+.Nav img{
+    border-radius: 20%;
+    background-color: aquamarine;
+}
 
 .Nav #links {
     width: 300px;
