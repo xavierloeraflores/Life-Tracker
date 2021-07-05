@@ -45,22 +45,25 @@ Implement any of the following features to improve the application:
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-[Add your response here]
+* The topics from the labs that helped me complete the assignment were:
+- using React Router and State to store the user that is currently being logged in
+- Using Bcrypt and JWTs for the backend profile management
+- Using Axios to fetch some of the user data
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-[Add your response here]
+* If I had more time I would have
+- finished the nutrition and sleep pages
+- implemented recharts to display of chart of activities over time
+- finished the backend implementation of creating new excersises and activities
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-[Add your response here]
+* 
 
-### Open-source libraries used
-
-- Add any links to open-source libraries used in your project.
 
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-[Add your response here]
+- @Carlos for being a great teammate and being super helpful whenever I was stuck on any particular bug. 
