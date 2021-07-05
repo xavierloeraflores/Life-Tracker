@@ -45,25 +45,24 @@ Implement any of the following features to improve the application:
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-* The topics from the labs that helped me complete the assignment were:
+The topics from the labs that helped me complete the assignment were:
 - using React Router and State to store the user that is currently being logged in
 - Using Bcrypt and JWTs for the backend profile management
 - Using Axios to fetch some of the user data
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-* If I had more time I would have
+If I had more time I would have
 - finished the nutrition and sleep pages
 - implemented recharts to display of chart of activities over time
 - finished the backend implementation of creating new excersises and activities
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-* 
+* I was surprised that serveral others were also not as far into the project as I was. I was very interested in seeing how everyone apprached the assignement with some people starting at the backend and others starting on the frontend like myself. At the time when I was presenting demos, I had not completed the backend for the project but I was able to show off how the front end would look. 
 
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-- @Carlos for being a great teammate and being super helpful whenever I was stuck on any particular bug. 
+- @Carlos for being a great teammate and being super helpful whenever I was stuck on any particular bug. It was fun to have someone to theorycraft solutions to bugs with. 
