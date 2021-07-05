@@ -41,7 +41,9 @@ Implement any of the following features to improve the application:
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-![Walthrough](https://media.giphy.com/media/cpRXj9xXYZBmMR8DIu/giphy.gif)
+
+<!-- ![Walkthrough2](https://media.giphy.com/media/7CaEkIDlH6pvBtWK6z/giphy.gif) -->
+![Walkthrough3](https://media.giphy.com/media/EDygWBR0AoiEZL2lbF/giphy.gif)
 
 ### Reflection
 
