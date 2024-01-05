@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 xavierloeraflores/Life-Tracker is built on the following main stack:
+
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [PostgreSQL](http://www.postgresql.org/) – Databases
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -12,11 +13,13 @@ xavierloeraflores/Life-Tracker is built on the following main stack:
 - [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 xavierloeraflores/Life-Tracker is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
@@ -27,14 +30,15 @@ xavierloeraflores/Life-Tracker is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [xavierloeraflores/Life-Tracker](https://github.com/xavierloeraflores/Life-Tracker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/16/23 <br/>Report generated|
+|26<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
